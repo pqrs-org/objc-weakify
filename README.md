@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/pqrs-org/objc-weakify.svg?branch=master)](https://travis-ci.org/pqrs-org/objc-weakify)
-[![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/objc-weakify/blob/master/LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/pqrs-org/objc-weakify/blob/master/LICENSE.md)
 
 # objc-weakify
 
