@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/pqrs-org/objc-weakify.svg?branch=master)](https://travis-ci.com/pqrs-org/objc-weakify)
+[![Build Status](https://github.com/pqrs-org/objc-weakify/workflows/CI/badge.svg)](https://github.com/pqrs-org/objc-weakify/actions)
 [![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/pqrs-org/objc-weakify/blob/master/LICENSE.md)
 
 # objc-weakify
